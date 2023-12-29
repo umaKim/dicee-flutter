@@ -17,11 +17,12 @@ void main() {
 }
 
 //stateful
-// state does not change
+// state changes
 //
 
 //stateless
-// state changes
+// state does not change
+
 
 // final class DicePage extends StatelessWidget {
 //
